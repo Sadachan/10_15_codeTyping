@@ -1,0 +1,23 @@
+body {
+  background-image: url("../img/bg2.png");
+  background-size: 100vw 100vh; }
+
+.pg-title {
+  width: 100%;
+  margin-top: 30vh;
+  text-align: center;
+  font-size: 34px;
+  font-weight: bold; }
+
+table {
+  margin: 0 auto;
+  margin-top: 5vh; }
+  table th {
+    font-size: 18px; }
+  table input {
+    height: 30px; }
+  table .submit-btn {
+    width: 100%;
+    font-size: 20px; }
+    table .submit-btn:hover {
+      cursor: pointer; }

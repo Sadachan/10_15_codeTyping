@@ -1,0 +1,32 @@
+body{
+  background-image:url('../img/bg2.png');
+  background-size:100vw 100vh;
+}
+
+.pg-title{
+  width:100%;
+  margin-top:30vh;
+  text-align:center;
+  // color:#fff;
+  font-size:34px;
+  font-weight:bold;
+}
+
+table{
+  margin:0 auto;
+  margin-top:5vh;
+  th{
+    // color:#fff;
+    font-size:18px;
+  }
+  input{
+    height:30px;
+  }
+  .submit-btn{
+    width:100%;
+    font-size:20px;
+    &:hover{
+      cursor:pointer;
+    }
+  }
+}
